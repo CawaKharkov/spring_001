@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - spring_rest_001@localhost" uuid="5c55d466-d13b-4c52-9ba5-587a98e14e8b">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>spring_rest_001.*</schema-pattern>
+      <default-schemas>spring_rest_001.*</default-schemas>
+    </data-source>
+  </component>
+</project>
